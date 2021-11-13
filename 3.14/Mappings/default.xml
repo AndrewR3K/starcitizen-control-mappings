@@ -1,0 +1,13 @@
+<ActionMaps version="1" optionsVersion="2" rebindVersion="2" profileName="test">
+ <CustomisationUIHeader label="test" description="" image="">
+  <devices>
+   <keyboard instance="1"/>
+   <mouse instance="1"/>
+   <joystick instance="1"/>
+  </devices>
+  <categories />
+ </CustomisationUIHeader>
+ <options type="keyboard" instance="1" Product="Keyboard {6F1D2B61-D5A0-11CF-BFC7-444553540000}"/>
+ <options type="joystick" instance="1" Product="X52 H.O.T.A.S. {075C06A3-0000-0000-0000-504944564944}"/>
+ <modifiers />
+</ActionMaps>
